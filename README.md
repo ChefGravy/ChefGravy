@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChefGravy
+- 👀 I’m interested in learning and challenging myself!
+- 🌱 I’m currently learning the MERN Stack and Python.
+- 💞️ I’m looking to collaborate on open source projects to help me learn and grow!
+- 📫 Reach me @ h82w84u@gmail.com :)
